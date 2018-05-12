@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31791'
     url: http://www.gutenberg.org/2009/agents/31791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42743#Les-Romans-de-la-Table-Ronde--1---5---13-Mis-en-nouveau-langage-et-accompagn-s-de-recherches-_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-05-20'
 gutenberg_type: Text
